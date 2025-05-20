@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 I’m currently learning webdesign and more specifically JavaScript
+🌱 I’m currently learning webdesign and more specifically JavaScript. Planning to learn Java and Python in the future
+
