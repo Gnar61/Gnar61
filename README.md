@@ -1,5 +1,5 @@
 ## Hi there 👋
-![My Languages](https://skillicons.dev/icons?i=js,html,css,c#)
+![My Languages](https://skillicons.dev/icons?i=js,html,css,csharp)
 <!--
 **Gnar61/Gnar61** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
