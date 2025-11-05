@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 I’m currently learning JavaScript, C# and .NET. Planning to learn Java and Python in the future.
-🌱 I'm interested in creating code for games that I love (modding) and doing video related stuff like ffmpeg!
-⚡ Fun fact: I also have experience with video editing which is why I'm interested in video related stuff.
+🌱 I’m currently learning JavaScript, C# and .NET. Planning to learn Java and Python in the future.  
+🌱 I'm interested in creating code for games that I love (modding) and doing video related stuff like ffmpeg!  
+⚡ Fun fact: I also have experience with video editing which is why I'm interested in video related stuff.  
